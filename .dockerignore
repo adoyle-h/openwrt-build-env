@@ -1,0 +1,7 @@
+.github
+.git
+.devcontainer
+.dockerignore
+LICENSES
+COPYING
+Dockerfile
